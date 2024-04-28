@@ -1,0 +1,9 @@
+bokeh==3.4.0
+fastapi==0.110.2
+mysql_connector_repackaged==0.3.1
+pandas==2.2.2
+pydantic==2.7.1
+PyJWT==2.8.0
+PyJWT==2.8.0
+starlette==0.37.2
+uvicorn==0.29.0
